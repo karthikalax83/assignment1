@@ -1,0 +1,7 @@
+string = input("Enter a string: ")  # take input from user
+reverse_string = string[::-1]  # slice the string to reverse it
+print("Reversed string:", reverse_string)  
+ 
+
+
+
